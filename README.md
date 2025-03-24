@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### stats
+### 📊 stats
 ![Anurag's GitHub stats](https://github-readme-stats-3lc7-git-master-issam777s-projects.vercel.app/api?username=ISsam777&show=reviews&show_icons=true&theme=tokyonight)
 
 ### langauges
