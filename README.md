@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISsam777&theme=tokyonight&langs_count=10&exclude_repo=dotfiles)](https://github.com/ISsam777/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISsam777&theme=tokyonight&langs_count=10&exclude_repo=dotfiles&layout=compact)](https://github.com/ISsam777/github-readme-stats)
