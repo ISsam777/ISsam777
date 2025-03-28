@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats-3lc7-git-master-issam777s-projects.vercel.app/api?username=ISsam777&show=reviews&show_icons=true&theme=tokyonight)
 
 ### 👨‍💻 langauges
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISsam777&theme=tokyonight&langs_count=10&exclude_repo=dotfiles&layout=compact)](https://github.com/ISsam777/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISsam777&theme=tokyonight&langs_count=10&exclude_repo=dotfiles&layout=pie)](https://github.com/ISsam777/github-readme-stats)
